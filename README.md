@@ -1,4 +1,5 @@
 # Gridlock — Tic-Tac-Toe AI
+**[▶ Play it live](https://deviika02.github.io/gridlock/)**
 
 A dependency-free Tic-Tac-Toe game with an unbeatable computer opponent.
 
